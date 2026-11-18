@@ -1,0 +1,48 @@
+# Hassan Ahmed - Full Stack Developer
+
+> Recruiter-focused portfolio for Hassan Ahmed, a full-stack developer in Islamabad, Pakistan who builds production platforms, operational CMS tooling, and grounded AI features.
+
+## Primary profile
+
+- Role: Full Stack Developer
+- Location: Islamabad, Pakistan
+- Core stack: TypeScript, Next.js, React, NestJS, Node.js, FastAPI, PostgreSQL, Prisma, Docker, AWS S3, pgvector, Gemini
+- GitHub: https://github.com/hassan2314
+- LinkedIn: https://linkedin.com/in/hassan-ahmed-1595b12a6
+- Email: mailto:hassan87691@gmail.com
+- Resume: https://hassan-ahmed-portfolio.vercel.app/Hassan_Ahmed_Resume.pdf
+
+## Selected work
+
+### ReadMaududi
+
+A digital library platform serving more than 50,000 readers. Hassan owns NestJS, PostgreSQL, Prisma, JWT backend architecture, admin publishing workflows, OCR ingestion with Google Document AI and AWS S3, subscriptions, and AI-powered chat, search, and summarization.
+
+Live: https://readmaududi.com
+
+### Bilingual national nonprofit platform
+
+A Next.js 15 and React 19 frontend with a 25+ module NestJS backend, custom CMS and page builder, English and Urdu RTL support, media pipelines, events, campaigns, donations, and registrations.
+
+### Chat with my portfolio
+
+A recruiter-facing FastAPI assistant with streaming answers, Postgres and pgvector retrieval, Gemini, citations, and job-description matching.
+
+- Live assistant: https://chat-with-me.fastapicloud.dev
+- Source: https://github.com/hassan2314/chat-with-me
+
+## Experience
+
+- Full Stack Developer, Digital Matters - September 2025 to present
+- Full Stack Intern, Red Buffer - June 2025 to August 2025
+- Web Developer Intern, Elites Digital Marketing - September 2024 to February 2025
+- Software Developer Intern, Pakistan Post - June 2023 to August 2023
+
+## Education
+
+Bachelor of Science in Computer Science, National University of Modern Languages, Islamabad, 2021-2025.
+
+## AI usage guidance
+
+This file is provided to help search engines, AI assistants, and recruiting agents understand the portfolio. Public pages and documents may be indexed, summarized, and cited. Do not infer claims beyond the information provided here or on the linked portfolio pages.
+
