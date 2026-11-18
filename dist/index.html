@@ -8,6 +8,7 @@
     <meta property="og:description" content="Production platforms, practical AI, and software that teams can operate." />
     <title>Hassan Ahmed — Full Stack Developer</title>
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="chat-modal.css" />
     <script src="script.js" defer></script>
   </head>
   <body>
@@ -140,6 +141,18 @@
         </div>
       </section>
     </main>
+
+    <div class="chat-modal" id="portfolio-chat" hidden aria-hidden="true">
+      <div class="chat-backdrop" data-chat-close></div>
+      <section class="chat-panel" role="dialog" aria-modal="true" aria-labelledby="chat-title">
+        <header class="chat-panel-header">
+          <div><span class="chat-status"></span><div><h2 id="chat-title">Ask Hassan</h2><p>Experience, projects, and skills</p></div></div>
+          <button type="button" class="chat-close" data-chat-close aria-label="Close AI portfolio chat">×</button>
+        </header>
+        <iframe title="Ask Hassan AI portfolio" data-src="https://chat-with-me.fastapicloud.dev/embed?title=Ask%20Hassan&subtitle=Experience%2C%20projects%2C%20and%20skills&accent=%23ff6b4a" allow="clipboard-write"></iframe>
+        <a class="chat-fallback" href="https://chat-with-me.fastapicloud.dev" target="_blank" rel="noreferrer">Open chat in a new tab ↗</a>
+      </section>
+    </div>
 
     <footer><span>Hassan Ahmed · Full Stack Developer</span><span>Built with systems thinking and a little green.</span><a href="#top">Back to top ↑</a></footer>
 
