@@ -10,7 +10,7 @@
 - GitHub: https://github.com/hassan2314
 - LinkedIn: https://linkedin.com/in/hassan-ahmed-1595b12a6
 - Email: mailto:hassan87691@gmail.com
-- Resume: https://hassan-ahmed-portfolio.vercel.app/Hassan_Ahmed_Resume.pdf
+- Resume: https://hassan-ahmed-portfolio-nine.vercel.app/Hassan_Ahmed_Resume.pdf
 
 ## Selected work
 
